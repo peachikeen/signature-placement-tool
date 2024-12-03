@@ -9,7 +9,7 @@ Project Description: An image editing tool within which an artist can supply one
 2) Next, provide your watermark you wish to use for this image. Sample images have been provided for the watermark image, but the user can utilize their own.
 3) Next, you can utilize the arrow keys to position the watermark and scrollbars to navigate your background image (if needed) and place your watermark into the desired position.
 4) Hit enter or close the window when you want to place your watermark.
-5) Finally, name and save your finished image. A finished_images folder has been provided for user convienence.
+5) Finally, name and save your finished image.
 
 **Purpose of the program:**
 This program is meant for digital artists to be able to place their watermark onto a background image using a GUI interface.
